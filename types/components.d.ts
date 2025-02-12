@@ -43,3 +43,10 @@ declare interface IPlantsItem extends Pick<IChannelItem, 'image' | 'name'> {
   seedimage: string;
   place: string[]; // Array of places
 }
+
+declare interface IRecepicesGroup {
+  class: string;
+}
+declare interface IRecepicesItem extends Pick<IChannelItem, 'image'>, Pick<IChannelItem, 'name'>{
+
+}

@@ -1,1 +1,2 @@
-export const baseRoutePath: string = '/borukva-guide/'
+export const baseRoutePath = '/borukva-guide/';
+
