@@ -6,7 +6,7 @@ import {baseRoutePath} from "./data/constants";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/borukva-guide/',
+  base: '/',
   title: "Borukva Guide",
   description: "Гайд для серверу Боруква",
   themeConfig: {
