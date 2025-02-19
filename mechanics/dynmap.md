@@ -22,4 +22,4 @@
 
 
 ## Реєстрація країни
-Реєстрація країни відбувається в телеграм боті <a href="https://t.me/igeln_support_bot" height="10px" width="10px">Підтримка Країн Борукви 🧅🦔</a>
+Реєстрація країни відбувається в телеграм боті <div height="10px" width="10px"> <a href="https://t.me/igeln_support_bot" >Підтримка Країн Борукви 🧅🦔</a></div>
