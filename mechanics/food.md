@@ -8,7 +8,7 @@ prev:
 
 next:
  text: Меблі
- link: /mechanics/polydecoratitions/furniture
+ link: /mechanics/polydecorations/furniture
 
 
 ---
