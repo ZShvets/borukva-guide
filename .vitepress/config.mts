@@ -7,7 +7,7 @@ import {baseRoutePath} from "./data/constants";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/',
-  title: "Borukva Guide",
+  title: "Borukva SMP",
   description: "Гайд для серверу Боруква",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -70,7 +70,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Stikulzon/borukva-guide' },
+      { icon: 'github', link: 'https://github.com/ZShvets/borukva-guide' },
       // https://vitepress.dev/reference/default-theme-config#sociallinks
     ]
   }

@@ -10,16 +10,9 @@ export const channelsList: IChannelItem[] = [
   {
     title: "Новин'яр Цебулевий",
     description:
-      "Анонси серйозних івентів, оновлень геймплею та оперативні новини по стану серверу.",
+        "Тут постяться РП новини держав сервера та анонси івентів. Один з найважливіших каналів Боруквию",
     image: "/images/get-started/channels/novyniar.avif",
     link: "https://t.me/borukva_minecraft_news",
-    type: "channel",
-  },
-  {
-    title: "Труха ⚡️ БорукVа",
-    description: "Тут постяться РП новини держав сервера та анонси івентів.",
-    image: "/images/get-started/channels/truha_borukva.avif",
-    link: "https://t.me/tryxaborukva",
     type: "channel",
   },
   {
@@ -30,17 +23,16 @@ export const channelsList: IChannelItem[] = [
     type: "channel",
   },
   {
-    title: "Боруква Майн Хаб 1.21+",
-    description:
-      "Загальний чат сервера, є гілка для допомоги новачкам (не бійтеся туди писати), РП-гілка, Мем-гілка, і багато іншого.",
-    image: "/images/get-started/channels/chat.avif",
-    link: "https://t.me/+q5Z5JHc71AwyM2My",
-    type: "chat",
+    title: "Дрочільня Цебулі",
+    description: "Приколи, шіпост, майкнрафт та серверні меми.",
+    image: "/images/get-started/channels/drochilnya.avif",
+    link: "https://t.me/orest_Jud",
+    type: "channel",
   },
   {
     title: "Чат п'ятого сезону",
     description:
-      "Чат для гравців 5 сезону, без офтопу, тільки для гравців які грають.",
+      "Основний чат борукви",
     image: "/images/get-started/channels/chat_5_season.avif",
     link: "https://t.me/+JDFV2AhGvbA4NGMy",
     type: "chat",
