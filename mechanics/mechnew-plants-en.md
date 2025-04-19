@@ -11,7 +11,7 @@ next:
  link: /mechanics/food/
 ---
 <script setup>
-import PlantsList from '../.vitepress/theme/components/PlantsList.vue'
+import PlantsList from '../.vitepress/theme/components/PlantsListEng.vue'
 </script>
 
 # 🌾New Plants

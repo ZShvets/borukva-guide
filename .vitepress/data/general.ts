@@ -316,7 +316,106 @@ export const plantsList: IPlantsGroup[] = [
         name: 'Лимон',
         image: '/images/mechanics/new-plants/lemon.png',
         seedimage: '/images/mechanics/new-plants/lemon_sapling.png',
-        place: ['Мандрівний жид', 'Палац випробувань']
+        place: ['Мандрівний селянин', 'Палац випробувань']
+      }
+    ]
+  }
+];
+
+export const plantsListEng: IPlantsGroup[] = [
+  {
+    title: 'Vegetables',
+    description: 'The largest added category, includes:',
+    items: [
+      {
+        name: 'Tomato',
+        image: '/images/mechanics/new-plants/tomato.png',
+        seedimage: '/images/mechanics/new-plants/tomato_seeds.png',
+        place: ['Archaeology', 'Pillager Outpost']
+      },
+      {
+        name: 'Cabbage',
+        image: '/images/mechanics/new-plants/cabbage.png',
+        seedimage: '/images/mechanics/new-plants/cabbage_seeds.png',
+        place: ['Trial Chambers']
+      },
+      {
+        name: 'Chilli Pepper',
+        image: '/images/mechanics/new-plants/chilli_pepper.png',
+        seedimage: '/images/mechanics/new-plants/chilli_pepper_seeds.png',
+        place: ['Trial Chambers', 'Ruined Portal']
+      },
+      {
+        name: 'Corn',
+        image: '/images/mechanics/new-plants/corn.png',
+        seedimage: '/images/mechanics/new-plants/corn_seeds.png',
+        place: ['Sniffer']
+      },
+      {
+        name: 'Cucumber',
+        image: '/images/mechanics/new-plants/cucumber.png',
+        seedimage: '/images/mechanics/new-plants/cucumber_seeds.png',
+        place: ['Archaeology', 'Shipwreck']
+      },
+      {
+        name: 'Lettuce',
+        image: '/images/mechanics/new-plants/lettuce.png',
+        seedimage: '/images/mechanics/new-plants/lettuce_seeds.png',
+        place: ['Archaeology']
+      },
+      {
+        name: 'Onion',
+        image: '/images/mechanics/new-plants/onion.png',
+        seedimage: '/images/mechanics/new-plants/onion_seeds.png',
+        place: ['Dungeon', 'Sniffer'] // "Скарбниця зі спавнером" often refers to a standard dungeon
+      },
+      {
+        name: 'Rice',
+        image: '/images/mechanics/new-plants/rice_panicle.png',
+        seedimage: '/images/mechanics/new-plants/rice.png', // Note: seedimage here seems to be the harvested item, not the seed itself
+        place: ['Sniffer']
+      },
+      {
+        name: 'Nether Wheat',
+        image: '/images/mechanics/new-plants/nether_wheat.png',
+        seedimage: '/images/mechanics/new-plants/nether_wheat_seeds.png',
+        place: ['Bastion Remnant'] // Or just 'Bastion'
+      }
+    ]
+  },
+  {
+    title: 'Berries',
+    description: 'New berry bushes that can be found in the forest.',
+    items: [
+      {
+        name: 'Blackcurrant',
+        image: '/images/mechanics/new-plants/blackcurrants.png',
+        seedimage: '/images/mechanics/new-plants/blackcurrants_bush_stage3.png', // Note: seedimage here is the bush itself
+        place: ['Forest', 'Flower Forest', 'Dark Forest']
+      },
+      {
+        name: 'Gooseberry',
+        image: '/images/mechanics/new-plants/gooseberry.png',
+        seedimage: '/images/mechanics/new-plants/gooseberry_bush_stage3.png', // Note: seedimage here is the bush itself
+        place: ['Forest', 'Birch Forest', 'Old Growth Birch Forest']
+      }
+    ]
+  },
+  {
+    title: 'Trees',
+    description: 'Several new fruit trees, namely:',
+    items: [
+      {
+        name: 'Avocado',
+        image: '/images/mechanics/new-plants/avocado.png',
+        seedimage: '/images/mechanics/new-plants/avocado_sapling.png',
+        place: ['Sparse Jungle']
+      },
+      {
+        name: 'Lemon',
+        image: '/images/mechanics/new-plants/lemon.png',
+        seedimage: '/images/mechanics/new-plants/lemon_sapling.png',
+        place: ['Wandering Trader', 'Trial Chambers']
       }
     ]
   }
