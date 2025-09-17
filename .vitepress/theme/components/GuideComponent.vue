@@ -6,7 +6,7 @@ import {sectionList} from "../../data/general";
 <template>
   <div class="guide-container">
     <h1 class="guide-title">Гайди серверу</h1>
-    <p class="guide-subtitle">Ці статті допоможуть вам ознайомитись з кастомним контентом серверу.</p>
+    <p class="guide-subtitle">Ці статті допоможуть вам ознайомитись з кастомним контентом серверу.<br> На 6 сезоні додано багато нових речей, гайд в процесі написання</p>
     
     <div v-for="(section, index) in sectionList" :key="index" class="guide-section">
   <h2 class="guide-section-title">{{ section.title }}</h2>

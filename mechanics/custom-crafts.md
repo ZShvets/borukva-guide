@@ -1,7 +1,10 @@
 # 🔧Кастомні крафти
 
+>(В процесі написання)
+
 На сервері існують декілька кастомних крафтів, крафти які допоможуть вам у грі!
 
+<!--
 ## Мішечок
 
 - Відрізняється крафтом від ванільного
@@ -14,6 +17,7 @@
 - Підходить будь-яке вугілля
   
 <center><img src="/public/images/mechanics/custom-crafts/black_dye_coal.png" alt="Мішечок" class="img-mechanics-custom-crafts antialiasing-off"></center>
+-->
 
 ## Стрижень Енду
 
@@ -30,7 +34,7 @@
 
 ## Електризовані рейки
 
-Більше про зміни до залізниць [тут](/mechanics/rails.md)
+**Тепер 6 з крафту замість 8.** Більше про зміни до залізниць [тут](/mechanics/rails.md)
    - Доданий варіант крафту
 
 <center><img src="/public/images/mechanics/custom-crafts/powered_rail_craft.png" alt="Електризовані рейки" class="img-mechanics-custom-crafts antialiasing-off"></center>
@@ -41,9 +45,11 @@
   
 <center><img src="/public/images/mechanics/custom-crafts/gravel_smelting.png" alt="Мішечок" class="img-mechanics-custom-crafts antialiasing-off"></center>
 
+<!--
 ## Відмивання кварцу
 
 - Можливість отримати звичайні блоки кварцу з модових, оскільки жителі продають і їх. [Новинки незера](/mechanics/world-gen.md)
 - Підходять всі 3 нові види кварцу, можна комбінувати.
   
 <center><img src="/public/images/mechanics/custom-crafts/quartz_washing.png" alt="Мішечок" class="img-mechanics-custom-crafts antialiasing-off"></center>
+-->

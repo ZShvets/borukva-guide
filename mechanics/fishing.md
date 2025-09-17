@@ -4,6 +4,8 @@ import FishList from '../.vitepress/theme/components/FishList.vue'
 
 # Риболовля
 
+>(В процесі написання)
+
 ## Вудочки
 
 ## Ящики

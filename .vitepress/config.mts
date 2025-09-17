@@ -42,15 +42,15 @@ export default defineConfig({
         items: [
           { text: '⚙️ Вступ', link: '/mechanics/index' },
           { text: '🎙️ Голосовий чат', link: '/mechanics/voice-chat'},
-          { text: '🗺️ Онлайн мапа сервера', link: '/mechanics/dynmap'},
+          { text: '🗺️ Онлайн мапа сервера', link: '/mechanics/servermap'},
           { text: '🗡️ Артефакти', link: '/mechanics/artefacts'},
           { text: '🔧 Кастомні крафти', link: '/mechanics/custom-crafts'},
           //{ text: 'Налаштуй сою стійку для броні', link: '/mechanics/armorstand-editor'},
           //{ text: 'Броварництво', link: '/mechanics/brewery'},
           //{ text: 'Риболовля', link: '/mechanics/fishing'},
           //{ text: 'Країни', link: '/mechanics/countries'},
-          { text: '📻 Радіо', link: '/mechanics/radio'},
-          { text: '🚂 Рейки', link: '/mechanics/rails'},
+          //{ text: '📻 Радіо', link: '/mechanics/radio'},
+          //{ text: '🚂 Рейки', link: '/mechanics/rails'},
           { text: '🚜 Землеробство', link: '/mechanics/farming'},
           { text: '🌾 Нові рослини', link: '/mechanics/new-plants'},
           { text: '🍲 Їжа Борукви', link: '/mechanics/food'},
@@ -63,7 +63,7 @@ export default defineConfig({
               { text: '🪑 Меблі', link: '/mechanics/polydecorations/furniture'},
             ]
           },
-          { text: '❤️ Патреон', link: '/mechanics/patreon'}
+          //{ text: '❤️ Патреон', link: '/mechanics/patreon'}
         ]
       }
       

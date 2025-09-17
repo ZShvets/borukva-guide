@@ -30,7 +30,7 @@ export const channelsList: IChannelItem[] = [
     type: "channel",
   },
   {
-    title: "Чат п'ятого сезону",
+    title: "Чат шостого сезону",
     description:
       "Основний чат борукви",
     image: "/images/get-started/channels/chat_5_season.avif",
@@ -62,9 +62,9 @@ export const sectionList: ISectionGroup[] = [
   {
     title: 'Додано',
     items: [
-      { name: 'Нові рейки', image: '/images/mechanics/general/turnout_rail.png', link: 'rails' },
+      //{ name: 'Нові рейки', image: '/images/mechanics/general/turnout_rail.png', link: 'rails' },
       { name: 'Артефакти', image: '/images/mechanics/general/bonaqua_axe.png', link: 'artefacts' },
-      { name: 'Радіо', image: '/images/mechanics/general/radio.png', link: 'radio', customClass: 'guide-img-fill' },
+      //{ name: 'Радіо', image: '/images/mechanics/general/radio.png', link: 'radio', customClass: 'guide-img-fill' },
       { name: 'Полотно для малювання', image: '/images/mechanics/general/canvas.png', link: 'polydecorations/canvas' },
       { name: 'Декілька видів дерев', image: '/images/mechanics/general/lemon_sapling.png', link: 'new-plants' },
       { name: 'Меблі', image: '/images/mechanics/general/bench.png', link: 'polydecorations/furniture' },
@@ -77,7 +77,7 @@ export const sectionList: ISectionGroup[] = [
       { name: 'Генерацію світу', image: '/images/mechanics/general/screenshot.png', link: 'world-gen', customClass: 'guide-img-cover'},
       { name: 'Фермерство', image: '/images/mechanics/general/harvest_sickle.png', link: 'farming' },
       { name: 'Вагонетки', image: '/images/mechanics/general/minecart.webp', link: 'rails' },
-      { name: 'Торгівлю з жителями', image: '/images/mechanics/general/villager.webp', link: 'villagers' },
+      //{ name: 'Торгівлю з жителями', image: '/images/mechanics/general/villager.webp', link: 'villagers' },
     ]
   }
 ]
